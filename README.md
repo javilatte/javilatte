@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @javilatte
-- 👀 I’m interested in learning to code and creating amazing things!
 - 🌱 I’m currently learning C, Java and Python.
-- 💞️ I’m looking to collaborate on any interesting project.
+- 💞️ Electronics enthusiast.
 
 <!---
 javilatte/javilatte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
