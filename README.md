@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @javilatte
-- 🌱 I’m currently learning C, Java and Python.
+- 🌱 I’m currently learning C, Java, Python & Arduino.
 - 💞️ Electronics enthusiast.
 
 <!---
