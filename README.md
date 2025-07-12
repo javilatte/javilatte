@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Javier Gonzalo Andrés (@javilatte)
 
-- 🌱 Currently working with different web technologies
+- 🌱 Currently working with different technologies
 - 💞️ Techie and electronics enthusiast
 - 👨‍💻 Coding at [AIR Institute](https://air-institute.com)
 - 📍 Zamora, Castilla y León, Spain
