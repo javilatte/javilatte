@@ -1,11 +1,11 @@
 # 👋 Hi, I'm Javier Gonzalo Andrés (@javilatte)
 
-- 🌱 Currently working with different technologies
-- 💞️ Techie and electronics enthusiast
-- 👨‍💻 Coding at [AIR Institute](https://air-institute.com)
+-  Techie and electronics enthusiast
+-  Software Engineer at [AIR Institute](https://air-institute.com)
 - 📍 Zamora, Castilla y León, Spain
 - 🌐 [Personal website](https://jagoan.es)
 - I have a passion for self-hosted solutions and off-grid services
+- Currently working with different technologies
 
 ---
 
@@ -29,12 +29,6 @@
 ![Homelab](https://img.shields.io/badge/Homelab-4B8BBE?style=for-the-badge&logo=server&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white)
 
----
-
-> **Disclaimer:**  
-> Most of my current contributions are to private codebases. Public projects are coming soon and many of these private repositories will eventually become open source and available to the public. Stay tuned!
-
----
 
 ## 📫 Contact Me
 
