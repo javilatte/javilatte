@@ -2,7 +2,7 @@
 
 -  Techie and electronics enthusiast
 -  Software Engineer at [AIR Institute](https://air-institute.com)
-- 📍 Zamora, Castilla y León, Spain
+- 📍 Spain
 - 🌐 [Personal website](https://jagoan.es)
 - I have a passion for self-hosted solutions and off-grid services
 - Currently working with different technologies
