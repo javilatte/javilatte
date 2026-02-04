@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Javier Gonzalo Andrés (@javilatte)
+# Javier Gonzalo Andrés (@javilatte)
 
 -  Techie and electronics enthusiast
 -  Software Engineer at [AIR Institute](https://air-institute.com)
